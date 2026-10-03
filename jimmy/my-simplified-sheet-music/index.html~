@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>My Simplified Sheet Music</title>
+</head>
+<body>
+
+<h2>
+Erik Satie - Gymnopédie No
+</h2>
+
+    <table border="1">
+  <thead>
+    <tr>
+      <th>NUMBER</th>
+      <th>LEFT HAND</th>
+      <th>LEFT HAND CHORD</th>
+      <th>RIGHT HAND CHORD</th>
+      <th>RIGHT HAND</th>
+      <th>NUMBER</th>
+      <th>PEDAL</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr><td>001</td><td>G</td><td></td><td></td><td></td><td>001</td><td>On</td></tr>
+    <tr><td>002</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>002</td><td>Off</td></tr>
+    <tr><td>003</td><td>D</td><td></td><td></td><td></td><td>003</td><td>On</td></tr>
+    <tr><td>004</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>004</td><td>Off</td></tr>
+    <tr><td>005</td><td>G</td><td></td><td></td><td></td><td>005</td><td>On</td></tr>
+    <tr><td>006</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>006</td><td>Off</td></tr>
+    <tr><td>007</td><td>D</td><td></td><td></td><td></td><td>007</td><td>On</td></tr>
+    <tr><td>008</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>008</td><td>Off</td></tr>
+    <tr><td>009</td><td>G</td><td></td><td></td><td></td><td>009</td><td>On</td></tr>
+    <tr><td>010</td><td>B-D-F#</td><td>B minor</td><td></td><td>F#</td><td>010</td><td></td></tr>
+    <tr><td>011</td><td></td><td></td><td></td><td>A</td><td>011</td><td>Off</td></tr>
+    <tr><td>012</td><td>D</td><td></td><td></td><td>G</td><td>012</td><td>On</td></tr>
+    <tr><td>013</td><td>A-C#-F#</td><td>F# minor</td><td></td><td>F#</td><td>013</td><td></td></tr>
+    <tr><td>014</td><td></td><td></td><td></td><td>C#</td><td>014</td><td>Off</td></tr>
+    <tr><td>015</td><td>G</td><td></td><td></td><td>B</td><td>015</td><td>On</td></tr>
+    <tr><td>016</td><td>B-D-F#</td><td>B minor</td><td></td><td>C#</td><td>016</td><td></td></tr>
+    <tr><td>017</td><td></td><td></td><td></td><td>D</td><td>017</td><td>Off</td></tr>
+    <tr><td>018</td><td>D</td><td></td><td></td><td>A</td><td>018</td><td>On</td></tr>
+    <tr><td>019</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>019</td><td>Off</td></tr>
+    <tr><td>020</td><td>G</td><td></td><td></td><td>F#</td><td>020</td><td>On</td></tr>
+    <tr><td>021</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>021</td><td>Off</td></tr>
+    <tr><td>022</td><td>D</td><td></td><td></td><td></td><td>022</td><td>On</td></tr>
+    <tr><td>023</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>023</td><td>Off</td></tr>
+    <tr><td>024</td><td>G</td><td></td><td></td><td></td><td>024</td><td>On</td></tr>
+    <tr><td>025</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>025</td><td>Off</td></tr>
+    <tr><td>026</td><td>D</td><td></td><td></td><td></td><td>026</td><td>On</td></tr>
+    <tr><td>027</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>027</td><td>Off</td></tr>
+    <tr><td>028</td><td>G</td><td></td><td></td><td></td><td>028</td><td>On</td></tr>
+    <tr><td>029</td><td>B-D-F#</td><td>B minor</td><td></td><td>F#</td><td>029</td><td></td></tr>
+    <tr><td>030</td><td></td><td></td><td></td><td>A</td><td>030</td><td>Off</td></tr>
+    <tr><td>031</td><td>D</td><td></td><td></td><td>G</td><td>031</td><td>On</td></tr>
+    <tr><td>032</td><td>A-C#-F#</td><td>F# minor</td><td></td><td>F#</td><td>032</td><td></td></tr>
+    <tr><td>033</td><td></td><td></td><td></td><td>C#</td><td>033</td><td>Off</td></tr>
+    <tr><td>034</td><td>G</td><td></td><td></td><td>B</td><td>034</td><td>On</td></tr>
+    <tr><td>035</td><td>B-D-F#</td><td>B minor</td><td></td><td>C#</td><td>035</td><td></td></tr>
+    <tr><td>036</td><td></td><td></td><td></td><td>D</td><td>036</td><td>Off</td></tr>
+    <tr><td>037</td><td>D</td><td></td><td></td><td>A</td><td>037</td><td>On</td></tr>
+    <tr><td>038</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>038</td><td>Off</td></tr>
+    <tr><td>039</td><td>F#</td><td></td><td></td><td>C#</td><td>039</td><td>On</td></tr>
+    <tr><td>040</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>040</td><td>Off</td></tr>
+    <tr><td>041</td><td>B</td><td></td><td></td><td>F#</td><td>041</td><td>On</td></tr>
+    <tr><td>042</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>042</td><td>Off</td></tr>
+    <tr><td>043</td><td>E</td><td></td><td></td><td>E</td><td>043</td><td>On</td></tr>
+    <tr><td>044</td><td></td><td></td><td>G–B (major 3rd)</td><td>G-B</td><td>044</td><td>Off</td></tr>
+    <tr><td>045</td><td>E</td><td></td><td></td><td></td><td>045</td><td>On</td></tr>
+    <tr><td>046</td><td></td><td></td><td>G major / B</td><td>B-D-G</td><td>046</td><td>Off</td></tr>
+    <tr><td>047</td><td>D</td><td></td><td></td><td></td><td>047</td><td>On</td></tr>
+    <tr><td>048</td><td></td><td></td><td>D minor</td><td>F-A-D</td><td>048</td><td>Off</td></tr>
+    <tr><td>049</td><td>A</td><td></td><td></td><td>A</td><td>049</td><td>On</td></tr>
+    <tr><td>050</td><td>A-C-E</td><td>A minor</td><td></td><td>B</td><td>050</td><td></td></tr>
+    <tr><td>051</td><td></td><td></td><td></td><td>C</td><td>051</td><td>Off</td></tr>
+    <tr><td>052</td><td>D</td><td></td><td></td><td>E</td><td>052</td><td>On</td></tr>
+    <tr><td>053</td><td>G-B-E</td><td>E minor / G</td><td></td><td>D</td><td>053</td><td></td></tr>
+    <tr><td>054</td><td></td><td></td><td></td><td>B</td><td>054</td><td>Off</td></tr>
+    <tr><td>055</td><td>D</td><td></td><td></td><td>D</td><td>055</td><td>On</td></tr>
+    <tr><td>056</td><td>D-G-B-E</td><td>E minor 7 / D</td><td></td><td>C</td><td>056</td><td></td></tr>
+    <tr><td>057</td><td></td><td></td><td></td><td>B</td><td>057</td><td>Off</td></tr>
+    <tr><td>058</td><td>D</td><td></td><td></td><td>D</td><td>058</td><td>On</td></tr>
+    <tr><td>059</td><td>C-E-A-D</td><td>A minor 7 / C</td><td></td><td></td><td>059</td><td>Off</td></tr>
+    <tr><td>060</td><td>D</td><td></td><td></td><td></td><td>060</td><td>On</td></tr>
+    <tr><td>061</td><td>C-F#-A-D</td><td>D7 / C</td><td></td><td></td><td>061</td><td></td></tr>
+    <tr><td>062</td><td></td><td></td><td></td><td>D</td><td>062</td><td>Off</td></tr>
+    <tr><td>063</td><td>D</td><td></td><td></td><td>E</td><td>063</td><td>On</td></tr>
+    <tr><td>064</td><td>A-C-F</td><td>F major / A</td><td></td><td>F</td><td>064</td><td></td></tr>
+    <tr><td>065</td><td></td><td></td><td></td><td>G</td><td>065</td><td>Off</td></tr>
+    <tr><td>066</td><td>D</td><td></td><td></td><td>A</td><td>066</td><td>On</td></tr>
+    <tr><td>067</td><td>A-C-E</td><td>A minor</td><td></td><td>C</td><td>067</td><td></td></tr>
+    <tr><td>068</td><td></td><td></td><td></td><td>D</td><td>068</td><td>Off</td></tr>
+    <tr><td>069</td><td>D</td><td></td><td></td><td>E</td><td>069</td><td>On</td></tr>
+    <tr><td>070</td><td>D-G-B-E</td><td>E minor 7 / D</td><td></td><td>D</td><td>070</td><td></td></tr>
+    <tr><td>071</td><td></td><td></td><td></td><td>B</td><td>071</td><td>Off</td></tr>
+    <tr><td>072</td><td>D</td><td></td><td></td><td>D</td><td>072</td><td>On</td></tr>
+    <tr><td>073</td><td>C-E-A-D</td><td>A minor 7 / C</td><td></td><td></td><td>073</td><td>Off</td></tr>
+    <tr><td>074</td><td>D</td><td></td><td></td><td></td><td>074</td><td>On</td></tr>
+    <tr><td>075</td><td>C-F#-A-D</td><td>D7 / C</td><td></td><td></td><td>075</td><td></td></tr>
+    <tr><td>076</td><td></td><td></td><td></td><td>D</td><td>076</td><td>Off</td></tr>
+    <tr><td>077</td><td>E</td><td></td><td></td><td>G</td><td>077</td><td>On</td></tr>
+    <tr><td>078</td><td>B-E-G</td><td>E minor / B</td><td></td><td></td><td>078</td><td>Off</td></tr>
+    <tr><td>079</td><td>F#</td><td></td><td></td><td>F#</td><td>079</td><td>On</td></tr>
+    <tr><td>080</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>080</td><td>Off</td></tr>
+    <tr><td>081</td><td>B</td><td></td><td></td><td>B</td><td>081</td><td>On</td></tr>
+    <tr><td>082</td><td>B-D-F#-A</td><td>B minor 7</td><td></td><td></td><td>082</td><td></td></tr>
+    <tr><td>083</td><td></td><td></td><td></td><td>B</td><td>083</td><td>Off</td></tr>
+    <tr><td>084</td><td>E</td><td></td><td></td><td>C#</td><td>084</td><td>On</td></tr>
+    <tr><td>085</td><td>C#-E-A</td><td>A major / C#</td><td></td><td>D</td><td>085</td><td></td></tr>
+    <tr><td>086</td><td></td><td></td><td></td><td>E</td><td>086</td><td>Off</td></tr>
+    <tr><td>087</td><td>E</td><td></td><td></td><td>C#</td><td>087</td><td>On</td></tr>
+    <tr><td>088</td><td>A-C#-F#-A</td><td>F# minor</td><td></td><td>D</td><td>088</td><td></td></tr>
+    <tr><td>089</td><td></td><td></td><td></td><td>E</td><td>089</td><td>Off</td></tr>
+    <tr><td>090</td><td>E</td><td></td><td></td><td>F#</td><td>090</td><td>On</td></tr>
+    <tr><td>091</td><td>B-A</td><td>B–A (2-note voicing)</td><td></td><td>D</td><td>091</td><td></td></tr>
+    <tr><td>092</td><td>E-B</td><td>E–B (5th)</td><td>D-G</td><td>D-G</td><td>092</td><td>Off</td></tr>
+    <tr><td>093</td><td>A-G</td><td>A–G (2-note voicing)</td><td>A minor / C</td><td>C-E-A-C</td><td>093</td><td>On / Off</td></tr>
+    <tr><td>094</td><td>D-A-D</td><td>D (octave)</td><td>D major</td><td>D-F#-A-D</td><td>094</td><td>On / Off</td></tr>
+
+    <tr><td>095</td><td>G</td><td></td><td></td><td></td><td>095</td><td>On</td></tr>
+    <tr><td>096</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>096</td><td>Off</td></tr>
+    <tr><td>097</td><td>D</td><td></td><td></td><td></td><td>097</td><td>On</td></tr>
+    <tr><td>098</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>098</td><td>Off</td></tr>
+    <tr><td>099</td><td>G</td><td></td><td></td><td></td><td>099</td><td>On</td></tr>
+    <tr><td>100</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>100</td><td>Off</td></tr>
+    <tr><td>101</td><td>D</td><td></td><td></td><td></td><td>101</td><td>On</td></tr>
+    <tr><td>102</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>102</td><td>Off</td></tr>
+    <tr><td>103</td><td>G</td><td></td><td></td><td></td><td>103</td><td>On</td></tr>
+    <tr><td>104</td><td>B-D-F#</td><td>B minor</td><td></td><td>F#</td><td>104</td><td></td></tr>
+    <tr><td>105</td><td></td><td></td><td></td><td>A</td><td>105</td><td>Off</td></tr>
+    <tr><td>106</td><td>D</td><td></td><td></td><td>G</td><td>106</td><td>On</td></tr>
+    <tr><td>107</td><td>A-C#-F#</td><td>F# minor</td><td></td><td>F#</td><td>107</td><td></td></tr>
+    <tr><td>108</td><td></td><td></td><td></td><td>C#</td><td>108</td><td>Off</td></tr>
+    <tr><td>109</td><td>G</td><td></td><td></td><td>B</td><td>109</td><td>On</td></tr>
+    <tr><td>110</td><td>B-D-F#</td><td>B minor</td><td></td><td>C#</td><td>110</td><td></td></tr>
+    <tr><td>111</td><td></td><td></td><td></td><td>D</td><td>111</td><td>Off</td></tr>
+    <tr><td>112</td><td>D</td><td></td><td></td><td>A</td><td>112</td><td>On</td></tr>
+    <tr><td>113</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>113</td><td>Off</td></tr>
+    <tr><td>114</td><td>G</td><td></td><td></td><td>F#</td><td>114</td><td>On</td></tr>
+    <tr><td>115</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>115</td><td>Off</td></tr>
+    <tr><td>116</td><td>D</td><td></td><td></td><td></td><td>116</td><td>On</td></tr>
+    <tr><td>117</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>117</td><td>Off</td></tr>
+    <tr><td>118</td><td>G</td><td></td><td></td><td></td><td>118</td><td>On</td></tr>
+    <tr><td>119</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>119</td><td>Off</td></tr>
+    <tr><td>120</td><td>D</td><td></td><td></td><td></td><td>120</td><td>On</td></tr>
+    <tr><td>121</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>121</td><td>Off</td></tr>
+    <tr><td>122</td><td>G</td><td></td><td></td><td></td><td>122</td><td>On</td></tr>
+    <tr><td>123</td><td>B-D-F#</td><td>B minor</td><td></td><td>F#</td><td>123</td><td></td></tr>
+    <tr><td>124</td><td></td><td></td><td></td><td>A</td><td>124</td><td>Off</td></tr>
+    <tr><td>125</td><td>D</td><td></td><td></td><td>G</td><td>125</td><td>On</td></tr>
+    <tr><td>126</td><td>A-C#-F#</td><td>F# minor</td><td></td><td>F#</td><td>126</td><td></td></tr>
+    <tr><td>127</td><td></td><td></td><td></td><td>C#</td><td>127</td><td>Off</td></tr>
+    <tr><td>128</td><td>G</td><td></td><td></td><td>B</td><td>128</td><td>On</td></tr>
+    <tr><td>129</td><td>B-D-F#</td><td>B minor</td><td></td><td>C#</td><td>129</td><td></td></tr>
+    <tr><td>130</td><td></td><td></td><td></td><td>D</td><td>130</td><td>Off</td></tr>
+    <tr><td>131</td><td>D</td><td></td><td></td><td>A</td><td>131</td><td>On</td></tr>
+    <tr><td>132</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>132</td><td>Off</td></tr>
+    <tr><td>133</td><td>F#</td><td></td><td></td><td>C#</td><td>133</td><td>On</td></tr>
+    <tr><td>134</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>134</td><td>Off</td></tr>
+    <tr><td>135</td><td>B</td><td></td><td></td><td>F#</td><td>135</td><td>On</td></tr>
+    <tr><td>136</td><td>B-D-F#</td><td>B minor</td><td></td><td></td><td>136</td><td>Off</td></tr>
+    <tr><td>137</td><td>E</td><td></td><td></td><td>E</td><td>137</td><td>On</td></tr>
+    <tr><td>138</td><td></td><td></td><td>G–B (major 3rd)</td><td>G-B</td><td>138</td><td>Off</td></tr>
+    <tr><td>139</td><td>E</td><td></td><td></td><td></td><td>139</td><td>On</td></tr>
+    <tr><td>140</td><td></td><td></td><td>G major / B</td><td>B-D-G</td><td>140</td><td>Off</td></tr>
+    <tr><td>141</td><td>D</td><td></td><td></td><td></td><td>141</td><td>On</td></tr>
+    <tr><td>142</td><td></td><td></td><td>D minor</td><td>F-A-D</td><td>142</td><td>Off</td></tr>
+    <tr><td>143</td><td>A</td><td></td><td></td><td>A</td><td>143</td><td>On</td></tr>
+    <tr><td>144</td><td>A-C-E</td><td>A minor</td><td></td><td>B</td><td>144</td><td></td></tr>
+    <tr><td>145</td><td></td><td></td><td></td><td>C</td><td>145</td><td>Off</td></tr>
+    <tr><td>146</td><td>D</td><td></td><td></td><td>E</td><td>146</td><td>On</td></tr>
+    <tr><td>147</td><td>G-B-E</td><td>E minor / G</td><td></td><td>D</td><td>147</td><td></td></tr>
+    <tr><td>148</td><td></td><td></td><td></td><td>B</td><td>148</td><td>Off</td></tr>
+    <tr><td>149</td><td>D</td><td></td><td></td><td>D</td><td>149</td><td>On</td></tr>
+    <tr><td>150</td><td>D-G-B-E</td><td>E minor 7 / D</td><td></td><td>C</td><td>150</td><td></td></tr>
+    <tr><td>151</td><td></td><td></td><td></td><td>B</td><td>151</td><td>Off</td></tr>
+    <tr><td>152</td><td>D</td><td></td><td></td><td>D</td><td>152</td><td>On</td></tr>
+    <tr><td>153</td><td>C-E-A-D</td><td>A minor 7 / C</td><td></td><td></td><td>153</td><td>Off</td></tr>
+    <tr><td>154</td><td>D</td><td></td><td></td><td></td><td>154</td><td>On</td></tr>
+    <tr><td>155</td><td>C-F#-A-D</td><td>D7 / C</td><td></td><td></td><td>155</td><td></td></tr>
+    <tr><td>156</td><td></td><td></td><td></td><td>D</td><td>156</td><td>Off</td></tr>
+    <tr><td>157</td><td>D</td><td></td><td></td><td>E</td><td>157</td><td>On</td></tr>
+    <tr><td>158</td><td>A-C-F</td><td>F major / A</td><td></td><td>F</td><td>158</td><td></td></tr>
+    <tr><td>159</td><td></td><td></td><td></td><td>G</td><td>159</td><td>Off</td></tr>
+    <tr><td>160</td><td>D</td><td></td><td></td><td>A</td><td>160</td><td>On</td></tr>
+    <tr><td>161</td><td>A-C-E</td><td>A minor</td><td></td><td>C</td><td>161</td><td></td></tr>
+    <tr><td>162</td><td></td><td></td><td></td><td>D</td><td>162</td><td>Off</td></tr>
+    <tr><td>163</td><td>D</td><td></td><td></td><td>E</td><td>163</td><td>On</td></tr>
+    <tr><td>164</td><td>D-G-B-E</td><td>E minor 7 / D</td><td></td><td>D</td><td>164</td><td></td></tr>
+    <tr><td>165</td><td></td><td></td><td></td><td>B</td><td>165</td><td>Off</td></tr>
+    <tr><td>166</td><td>D</td><td></td><td></td><td>D</td><td>166</td><td>On</td></tr>
+    <tr><td>167</td><td>C-E-A-D</td><td>A minor 7 / C</td><td></td><td></td><td>167</td><td>Off</td></tr>
+    <tr><td>168</td><td>D</td><td></td><td></td><td></td><td>168</td><td>On</td></tr>
+    <tr><td>169</td><td>C-F#-A-D</td><td>D7 / C</td><td></td><td></td><td>169</td><td></td></tr>
+    <tr><td>170</td><td></td><td></td><td></td><td>D</td><td>170</td><td>Off</td></tr>
+    <tr><td>171</td><td>E</td><td></td><td></td><td>G</td><td>171</td><td>On</td></tr>
+    <tr><td>172</td><td>B-E-G</td><td>E minor / B</td><td></td><td></td><td>172</td><td>Off</td></tr>
+    <tr><td>173</td><td>F#</td><td></td><td></td><td>F#</td><td>173</td><td>On</td></tr>
+    <tr><td>174</td><td>A-C#-F#</td><td>F# minor</td><td></td><td></td><td>174</td><td>Off</td></tr>
+    <tr><td>175</td><td>B</td><td></td><td></td><td>B</td><td>175</td><td>On</td></tr>
+    <tr><td>176</td><td>B-D-F#-A</td><td>B minor 7</td><td></td><td></td><td>176</td><td></td></tr>
+    <tr><td>177</td><td></td><td></td><td></td><td>B</td><td>177</td><td>Off</td></tr>
+    <tr><td>178</td><td>E</td><td></td><td></td><td>C#</td><td>178</td><td>On</td></tr>
+    <tr><td>179</td><td>C#-E-A</td><td>A major / C#</td><td></td><td>D</td><td>179</td><td></td></tr>
+    <tr><td>180</td><td></td><td></td><td></td><td>E</td><td>180</td><td>Off</td></tr>
+    <tr><td>181</td><td>E</td><td></td><td></td><td>C#</td><td>181</td><td>On</td></tr>
+    <tr><td>182</td><td>A-C#-F#-A</td><td>F# minor</td><td></td><td>D</td><td>182</td><td></td></tr>
+    <tr><td>183</td><td></td><td></td><td></td><td>E</td><td>183</td><td>Off</td></tr>
+    <tr><td>184</td><td>E</td><td></td><td></td><td>F#</td><td>184</td><td>On</td></tr>
+    <tr><td>185</td><td>B-A</td><td>B–A (2-note voicing)</td><td></td><td>D</td><td>185</td><td></td></tr>
+    <tr><td>186</td><td>E-B</td><td>E–B (5th)</td><td>D-G</td><td>D-G</td><td>186</td><td>Off</td></tr>
+    <tr><td>187</td><td>A-G</td><td>A–G (2-note voicing)</td><td>A minor / C</td><td>C-E-A-C</td><td>187</td><td>On / Off</td></tr>
+    <tr><td>188</td><td>D-A-D</td><td>D (octave)</td><td>D minor</td><td>D-F-A-D</td><td>188</td><td>On / Off</td></tr>
+  </tbody>
+</table>
+</body>
+</html>
