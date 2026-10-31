@@ -12,7 +12,10 @@
     <img src="mountain.png">
     <br>
     <a href="/jimmy/my-simplified-sheet-music/">
-    Music
+    My Custom Sheet Music
+    </a>
+    <a href="/jimmy/my-music-list/">
+    My Music List
     </a>
 </body>
 </html>
