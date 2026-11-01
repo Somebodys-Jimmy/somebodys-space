@@ -1,0 +1,22 @@
+index.html
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Enter The Password</title>
+</head>
+<body>
+    <h1>
+        Enter The Password.
+    </h1>
+    <pre>
+    <big>
+ +---------------------+
+ | <a href="q">Q</a> <a href="w">W</a> <a href="e">E</a> <a href="r">R</a> <a href="t">T</a> <a href="y">Y</a> <a href="u">U</a> <a href="i">I</a> <a href="o">O</a> <a href="p">P</a> |
+ |  <a href="a">A</a> <a href="s">S</a> <a href="d">D</a> <a href="f">F</a> <a href="g">G</a> <a href="h">H</a> <a href="j">J</a> <a href="k">K</a> <a href="l">L</a>  |
+ |   <a href="z">Z</a> <a href="x">X</a> <a href="c">C</a> <a href="v">V</a> <a href="b">B</a> <a href="n">N</a> <a href="m">M</a>     |
+ +---------------------+
+    </big>
+    </pre>
+</body>
+</html>
